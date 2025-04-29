@@ -15,3 +15,5 @@ subprocess.run(["sudo", "usermod", "-aG", "sudo", username])
 # Log
 with open("/var/log/user_creation.log", "a") as f:
     f.write(f"{username} created with sudo access\n")
+
+print(f"User {username} created and configured.")
