@@ -16,13 +16,3 @@ It assigns the user a default shell, adds them to predefined groups (e.g., `sudo
 - Log user creation actions to a file
 
 ---
-
-## 📂 Files
-
-| File Name | Purpose |
-|:---|:---|
-| `create_user_with_log.sh` | Bash script for user creation |
-| OR |
-| `create_user_with_log.py` | Python script for user creation |
-
----
