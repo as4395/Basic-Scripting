@@ -1,4 +1,4 @@
-# basic_scripting
+# Basic Scripting
 
 # 🛡️ Basic User Creation Script
 
