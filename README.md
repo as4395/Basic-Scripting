@@ -1,5 +1,3 @@
-# Basic Scripting
-
 # 🛡️ Basic User Creation Script
 
 ## 📋 Description
